@@ -1,0 +1,4 @@
+由于nginx依赖关系，所以必须按照下面的循序安装
+依次安装openssl-fips-2.0.2.tar.gz, zlib-1.2.7.tar.gz, pcre-8.21.tar.gz, nginx-1.2.6.tar.gz
+
+参考链接：http://blog.csdn.net/linwei_1029/article/details/25057111
